@@ -30,11 +30,23 @@ Supported devices:
 
 Copy the Makerfabs folder to the SquareLine boards folder
 
+
+## Version 1.4.0 and 1.3.*
+
 The board package files should be copied to the following path:
 
 - Windows: C:\Users\USERNAME\Documents\SquareLine\boards
 - Linux:~/SquareLine/boards
 - MacOS: Users\USERNAME\SquareLine\boards
+
+
+## Version 1.4.1
+
+This version changes the file location of Boards to:
+
+- Windows:  C:\Users\USERNAME\SquareLine\boards
+
+SquareLine's OBP description is incorrect.
 
 
 OBP file structure:
